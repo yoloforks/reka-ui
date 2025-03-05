@@ -1,0 +1,4 @@
+import{_ as t,c as o,e as a,au as n,o as s}from"./chunks/framework.6UEeBrHH.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ListboxContent.md","filePath":"meta/ListboxContent.md","lastUpdated":1741142384000}'),r={name:"meta/ListboxContent.md"};function d(i,p,c,m,l,h){const e=n("PropsTable");return s(),o("div",null,[a(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1}]})])}const _=t(r,[["render",d]]);export{f as __pageData,_ as default};

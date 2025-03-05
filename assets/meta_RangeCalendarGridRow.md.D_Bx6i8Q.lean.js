@@ -1,0 +1,4 @@
+import{_ as a,c as o,e as t,au as r,o as n}from"./chunks/framework.6UEeBrHH.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/RangeCalendarGridRow.md","filePath":"meta/RangeCalendarGridRow.md","lastUpdated":1741142384000}'),d={name:"meta/RangeCalendarGridRow.md"};function s(i,p,l,c,m,h){const e=r("PropsTable");return n(),o("div",null,[t(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'tr'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1}]})])}const _=a(d,[["render",s]]);export{f as __pageData,_ as default};

@@ -1,6 +1,0 @@
-import{_ as p,c as r,e,au as o,o as s}from"./chunks/framework.DhAtJbM3.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/PopoverRoot.md","filePath":"meta/PopoverRoot.md","lastUpdated":1741141824000}'),l={name:"meta/PopoverRoot.md"};function d(i,c,m,f,h,u){const t=o("PropsTable"),n=o("EmitsTable"),a=o("SlotsTable");return s(),r("div",null,[e(t,{data:[{name:"defaultOpen",description:`<p>The open state of the popover when it is initially rendered. Use when you do not need to control its open state.</p>
-`,type:"boolean",required:!1,default:"false"},{name:"modal",description:`<p>The modality of the popover. When set to true, interaction with outside elements will be disabled and only popover content will be visible to screen readers.</p>
-`,type:"boolean",required:!1,default:"false"},{name:"open",description:`<p>The controlled open state of the popover.</p>
-`,type:"boolean",required:!1}]}),e(n,{data:[{name:"update:open",description:`<p>Event handler called when the open state of the popover changes.</p>
-`,type:"[value: boolean]"}]}),e(a,{data:[{name:"open",description:`<p>Current open state</p>
-`,type:"boolean"}]})])}const v=p(l,[["render",d]]);export{b as __pageData,v as default};
