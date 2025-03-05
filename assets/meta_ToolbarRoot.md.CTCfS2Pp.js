@@ -1,7 +1,0 @@
-import{_ as o,c as t,e as a,au as r,o as n}from"./chunks/framework.6UEeBrHH.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ToolbarRoot.md","filePath":"meta/ToolbarRoot.md","lastUpdated":1741142384000}'),i={name:"meta/ToolbarRoot.md"};function d(s,l,p,c,m,f){const e=r("PropsTable");return n(),t("div",null,[a(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1},{name:"dir",description:`<p>The reading direction of the combobox when applicable. <br> If omitted, inherits globally from <code>ConfigProvider</code> or assumes LTR (left-to-right) reading mode.</p>
-`,type:"'ltr' | 'rtl'",required:!1},{name:"loop",description:`<p>When <code>true</code>, keyboard navigation will loop from last tab to first, and vice versa.</p>
-`,type:"boolean",required:!1},{name:"orientation",description:`<p>The orientation of the toolbar</p>
-`,type:"'vertical' | 'horizontal'",required:!1,default:"'horizontal'"}]})])}const b=o(i,[["render",d]]);export{u as __pageData,b as default};

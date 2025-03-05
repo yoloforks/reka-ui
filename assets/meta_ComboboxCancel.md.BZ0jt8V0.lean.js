@@ -1,4 +1,0 @@
-import{_ as o,c as a,e as t,au as n,o as r}from"./chunks/framework.6UEeBrHH.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ComboboxCancel.md","filePath":"meta/ComboboxCancel.md","lastUpdated":1741142384000}'),s={name:"meta/ComboboxCancel.md"};function d(p,i,c,m,l,h){const e=n("PropsTable");return r(),a("div",null,[t(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'button'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1}]})])}const f=o(s,[["render",d]]);export{b as __pageData,f as default};

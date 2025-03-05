@@ -1,0 +1,3 @@
+import{_ as a,c as t,e as n,au as o,o as r}from"./chunks/framework.6UEeBrHH.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/MenubarMenu.md","filePath":"meta/MenubarMenu.md","lastUpdated":1741142868000}'),s={name:"meta/MenubarMenu.md"};function i(c,p,u,l,d,m){const e=o("PropsTable");return r(),t("div",null,[n(e,{data:[{name:"value",description:`<p>A unique value that associates the item with an active value when the navigation menu is controlled.</p>
+<p>This prop is managed automatically when uncontrolled.</p>
+`,type:"string",required:!1}]})])}const f=a(s,[["render",i]]);export{h as __pageData,f as default};

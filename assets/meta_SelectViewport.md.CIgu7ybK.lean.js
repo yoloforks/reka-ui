@@ -1,5 +1,0 @@
-import{_ as t,c as o,e as a,au as r,o as n}from"./chunks/framework.6UEeBrHH.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/SelectViewport.md","filePath":"meta/SelectViewport.md","lastUpdated":1741142384000}'),i={name:"meta/SelectViewport.md"};function s(d,c,p,l,m,h){const e=r("PropsTable");return n(),o("div",null,[a(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1},{name:"nonce",description:`<p>Will add <code>nonce</code> attribute to the style tag which can be used by Content Security Policy. <br> If omitted, inherits globally from <code>ConfigProvider</code>.</p>
-`,type:"string",required:!1}]})])}const _=t(i,[["render",s]]);export{f as __pageData,_ as default};

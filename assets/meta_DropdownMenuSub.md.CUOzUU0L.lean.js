@@ -1,5 +1,0 @@
-import{_ as p,c as s,e,au as o,o as r}from"./chunks/framework.6UEeBrHH.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/DropdownMenuSub.md","filePath":"meta/DropdownMenuSub.md","lastUpdated":1741142384000}'),d={name:"meta/DropdownMenuSub.md"};function l(c,i,m,u,b,_){const n=o("PropsTable"),t=o("EmitsTable"),a=o("SlotsTable");return r(),s("div",null,[e(n,{data:[{name:"defaultOpen",description:`<p>The open state of the dropdown menu when it is initially rendered. Use when you do not need to control its open state.</p>
-`,type:"boolean",required:!1},{name:"open",description:`<p>The controlled open state of the menu. Can be used as <code>v-model:open</code>.</p>
-`,type:"boolean",required:!1}]}),e(t,{data:[{name:"update:open",description:`<p>Event handler called when the open state of the submenu changes.</p>
-`,type:"[payload: boolean]"}]}),e(a,{data:[{name:"open",description:`<p>Current open state</p>
-`,type:"boolean"}]})])}const w=p(d,[["render",l]]);export{f as __pageData,w as default};

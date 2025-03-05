@@ -1,0 +1,7 @@
+import{_ as r,c as s,e,au as t,o as d}from"./chunks/framework.6UEeBrHH.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/HoverCardRoot.md","filePath":"meta/HoverCardRoot.md","lastUpdated":1741142868000}'),p={name:"meta/HoverCardRoot.md"};function l(c,i,m,h,u,f){const o=t("PropsTable"),a=t("EmitsTable"),n=t("SlotsTable");return d(),s("div",null,[e(o,{data:[{name:"closeDelay",description:`<p>The duration from when the mouse leaves the trigger or content until the hover card closes.</p>
+`,type:"number",required:!1,default:"300"},{name:"defaultOpen",description:`<p>The open state of the hover card when it is initially rendered. Use when you do not need to control its open state.</p>
+`,type:"false",required:!1,default:"false"},{name:"open",description:`<p>The controlled open state of the hover card. Can be binded as <code>v-model:open</code>.</p>
+`,type:"boolean",required:!1},{name:"openDelay",description:`<p>The duration from when the mouse enters the trigger until the hover card opens.</p>
+`,type:"number",required:!1,default:"700"}]}),e(a,{data:[{name:"update:open",description:`<p>Event handler called when the open state of the hover card changes.</p>
+`,type:"[value: boolean]"}]}),e(n,{data:[{name:"open",description:`<p>Current open state</p>
+`,type:"boolean"}]})])}const b=r(p,[["render",l]]);export{v as __pageData,b as default};

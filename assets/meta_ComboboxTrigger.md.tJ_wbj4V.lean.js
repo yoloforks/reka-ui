@@ -1,0 +1,5 @@
+import{_ as o,c as t,e as a,au as r,o as n}from"./chunks/framework.6UEeBrHH.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ComboboxTrigger.md","filePath":"meta/ComboboxTrigger.md","lastUpdated":1741142868000}'),s={name:"meta/ComboboxTrigger.md"};function i(d,p,m,c,l,h){const e=r("PropsTable");return n(),t("div",null,[a(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'button'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1},{name:"disabled",description:`<p>When <code>true</code>, prevents the user from interacting with item</p>
+`,type:"boolean",required:!1}]})])}const f=o(s,[["render",i]]);export{b as __pageData,f as default};

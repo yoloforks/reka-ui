@@ -1,0 +1,7 @@
+import{_ as r,c as a,e,au as o,o as n}from"./chunks/framework.6UEeBrHH.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ConfigProvider.md","filePath":"meta/ConfigProvider.md","lastUpdated":1741142868000}'),l={name:"meta/ConfigProvider.md"};function d(s,p,c,u,f,h){const i=o("PropsTable"),t=o("MethodsTable");return n(),a("div",null,[e(i,{data:[{name:"dir",description:`<p>The global reading direction of your application. This will be inherited by all primitives.</p>
+`,type:"'ltr' | 'rtl'",required:!1,default:"'ltr'"},{name:"locale",description:`<p>The global locale of your application. This will be inherited by all primitives.</p>
+`,type:"string",required:!1,default:"'en'"},{name:"nonce",description:`<p>The global <code>nonce</code> value of your application. This will be inherited by the related primitives.</p>
+`,type:"string",required:!1},{name:"scrollBody",description:`<p>The global scroll body behavior of your application. This will be inherited by the related primitives.</p>
+`,type:"boolean | ScrollBodyOption",required:!1,default:"true"},{name:"useId",description:`<p>The global <code>useId</code> injection as a workaround for preventing hydration issue.</p>
+`,type:"(() => string)",required:!1}]}),e(t,{data:[{name:"useId",description:`<p>The global <code>useId</code> injection as a workaround for preventing hydration issue.</p>
+`,type:"() => string"}]})])}const y=r(l,[["render",d]]);export{b as __pageData,y as default};

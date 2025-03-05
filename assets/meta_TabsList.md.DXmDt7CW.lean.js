@@ -1,0 +1,5 @@
+import{_ as a,c as t,e as o,au as s,o as r}from"./chunks/framework.6UEeBrHH.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/TabsList.md","filePath":"meta/TabsList.md","lastUpdated":1741142868000}'),n={name:"meta/TabsList.md"};function i(d,p,l,c,m,u){const e=s("PropsTable");return r(),t("div",null,[o(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1},{name:"loop",description:`<p>When <code>true</code>, keyboard navigation will loop from last tab to first, and vice versa.</p>
+`,type:"boolean",required:!1,default:"true"}]})])}const b=a(n,[["render",i]]);export{h as __pageData,b as default};
