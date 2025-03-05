@@ -1,4 +1,0 @@
-import{_ as a,c as o,e as t,au as r,o as n}from"./chunks/framework.BvEsjwOO.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/DialogTrigger.md","filePath":"meta/DialogTrigger.md","lastUpdated":1741141490000}'),s={name:"meta/DialogTrigger.md"};function i(d,p,l,c,m,g){const e=r("PropsTable");return n(),o("div",null,[t(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'button'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1}]})])}const f=a(s,[["render",i]]);export{u as __pageData,f as default};

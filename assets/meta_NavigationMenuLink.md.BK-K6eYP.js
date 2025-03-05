@@ -1,0 +1,7 @@
+import{_ as o,c as i,e,au as t,o as r}from"./chunks/framework.DhAtJbM3.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/NavigationMenuLink.md","filePath":"meta/NavigationMenuLink.md","lastUpdated":1741141824000}'),s={name:"meta/NavigationMenuLink.md"};function d(p,l,c,m,h,u){const n=t("PropsTable"),a=t("EmitsTable");return r(),i("div",null,[e(n,{data:[{name:"active",description:`<p>Used to identify the link as the currently active page.</p>
+`,type:"boolean",required:!1},{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'a'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1}]}),e(a,{data:[{name:"select",description:`<p>Event handler called when the user selects a link (via mouse or keyboard).</p>
+<p>Calling <code>event.preventDefault</code> in this handler will prevent the navigation menu from closing when selecting that link.</p>
+`,type:"[payload: CustomEvent<{ originalEvent: Event; }>]"}]})])}const g=o(s,[["render",d]]);export{f as __pageData,g as default};

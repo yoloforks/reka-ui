@@ -1,4 +1,0 @@
-import{_ as t,c as o,e as a,au as s,o as n}from"./chunks/framework.BvEsjwOO.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ToastDescription.md","filePath":"meta/ToastDescription.md","lastUpdated":1741141490000}'),r={name:"meta/ToastDescription.md"};function i(p,d,c,m,l,h){const e=s("PropsTable");return n(),o("div",null,[a(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1}]})])}const _=t(r,[["render",i]]);export{f as __pageData,_ as default};

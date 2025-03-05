@@ -1,5 +1,0 @@
-import{_ as a,c as t,e as o,au as r,o as n}from"./chunks/framework.BvEsjwOO.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/AvatarFallback.md","filePath":"meta/AvatarFallback.md","lastUpdated":1741141490000}'),s={name:"meta/AvatarFallback.md"};function d(p,i,l,c,m,f){const e=r("PropsTable");return n(),t("div",null,[o(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'span'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1},{name:"delayMs",description:`<p>Useful for delaying rendering so it only appears for those with slower connections.</p>
-`,type:"number",required:!1,default:"0"}]})])}const _=a(s,[["render",d]]);export{h as __pageData,_ as default};
