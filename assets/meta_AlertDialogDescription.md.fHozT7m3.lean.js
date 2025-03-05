@@ -1,0 +1,4 @@
+import{_ as t,c as o,e as a,au as r,o as n}from"./chunks/framework.BvEsjwOO.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/AlertDialogDescription.md","filePath":"meta/AlertDialogDescription.md","lastUpdated":1741141490000}'),s={name:"meta/AlertDialogDescription.md"};function i(p,d,l,c,m,h){const e=r("PropsTable");return n(),o("div",null,[a(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'p'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1}]})])}const _=t(s,[["render",i]]);export{f as __pageData,_ as default};
