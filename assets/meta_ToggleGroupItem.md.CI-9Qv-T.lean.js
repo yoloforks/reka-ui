@@ -1,0 +1,6 @@
+import{_ as t,c as o,e as a,au as r,o as n}from"./chunks/framework.6UEeBrHH.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ToggleGroupItem.md","filePath":"meta/ToggleGroupItem.md","lastUpdated":1741142901000}'),s={name:"meta/ToggleGroupItem.md"};function p(i,d,l,u,c,m){const e=r("PropsTable");return n(),o("div",null,[a(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'button'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1},{name:"disabled",description:`<p>When <code>true</code>, prevents the user from interacting with the toggle.</p>
+`,type:"boolean",required:!1},{name:"value",description:`<p>A string value for the toggle group item. All items within a toggle group should use a unique value.</p>
+`,type:"AcceptableValue",required:!0}]})])}const f=t(s,[["render",p]]);export{h as __pageData,f as default};

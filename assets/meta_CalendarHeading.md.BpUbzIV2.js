@@ -1,0 +1,5 @@
+import{_ as o,c as r,e,au as a,o as d}from"./chunks/framework.6UEeBrHH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/CalendarHeading.md","filePath":"meta/CalendarHeading.md","lastUpdated":1741142901000}'),s={name:"meta/CalendarHeading.md"};function i(p,l,c,m,h,u){const t=a("PropsTable"),n=a("SlotsTable");return d(),r("div",null,[e(t,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1}]}),e(n,{data:[{name:"headingValue",description:`<p>Current month and year</p>
+`,type:"string"}]})])}const g=o(s,[["render",i]]);export{_ as __pageData,g as default};

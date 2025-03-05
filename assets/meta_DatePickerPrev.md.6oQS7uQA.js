@@ -1,6 +1,0 @@
-import{_ as r,c as n,e,au as t,o as s}from"./chunks/framework.6UEeBrHH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/DatePickerPrev.md","filePath":"meta/DatePickerPrev.md","lastUpdated":1741142868000}'),d={name:"meta/DatePickerPrev.md"};function p(i,c,l,m,u,h){const a=t("PropsTable"),o=t("SlotsTable");return s(),n("div",null,[e(a,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1},{name:"prevPage",description:`<p>The function to be used for the prev page. Overwrites the <code>prevPage</code> function set on the <code>CalendarRoot</code>.</p>
-`,type:"((placeholder: DateValue) => DateValue)",required:!1}]}),e(o,{data:[{name:"disabled",description:`<p>Current disable state</p>
-`,type:"boolean"}]})])}const v=r(d,[["render",p]]);export{_ as __pageData,v as default};

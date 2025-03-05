@@ -1,0 +1,6 @@
+import{_ as n,c as r,e,au as t,o as s}from"./chunks/framework.6UEeBrHH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/CalendarNext.md","filePath":"meta/CalendarNext.md","lastUpdated":1741142901000}'),d={name:"meta/CalendarNext.md"};function p(i,l,c,m,u,h){const a=t("PropsTable"),o=t("SlotsTable");return s(),r("div",null,[e(a,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'button'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1},{name:"nextPage",description:`<p>The function to be used for the next page. Overwrites the <code>nextPage</code> function set on the <code>CalendarRoot</code>.</p>
+`,type:"((placeholder: DateValue) => DateValue)",required:!1}]}),e(o,{data:[{name:"disabled",description:`<p>Current disable state</p>
+`,type:"boolean"}]})])}const b=n(d,[["render",p]]);export{_ as __pageData,b as default};

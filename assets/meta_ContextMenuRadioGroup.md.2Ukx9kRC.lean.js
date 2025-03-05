@@ -1,6 +1,0 @@
-import{_ as n,c as r,e,au as t,o as s}from"./chunks/framework.6UEeBrHH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/ContextMenuRadioGroup.md","filePath":"meta/ContextMenuRadioGroup.md","lastUpdated":1741142868000}'),d={name:"meta/ContextMenuRadioGroup.md"};function p(i,l,c,m,u,h){const a=t("PropsTable"),o=t("EmitsTable");return s(),r("div",null,[e(a,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
-`,type:"AsTag | Component",required:!1,default:"'div'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
-<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
-`,type:"boolean",required:!1},{name:"modelValue",description:`<p>The value of the selected item in the group.</p>
-`,type:"string",required:!1}]}),e(o,{data:[{name:"update:modelValue",description:`<p>Event handler called when the value changes.</p>
-`,type:"[payload: string]"}]})])}const g=n(d,[["render",p]]);export{_ as __pageData,g as default};

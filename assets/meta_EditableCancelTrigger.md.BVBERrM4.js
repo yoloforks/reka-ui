@@ -1,0 +1,4 @@
+import{_ as a,c as t,e as o,au as r,o as n}from"./chunks/framework.6UEeBrHH.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar":true},"headers":[],"relativePath":"meta/EditableCancelTrigger.md","filePath":"meta/EditableCancelTrigger.md","lastUpdated":1741142901000}'),s={name:"meta/EditableCancelTrigger.md"};function d(i,p,l,c,m,h){const e=r("PropsTable");return n(),t("div",null,[o(e,{data:[{name:"as",description:`<p>The element or component this component should render as. Can be overwritten by <code>asChild</code>.</p>
+`,type:"AsTag | Component",required:!1,default:"'button'"},{name:"asChild",description:`<p>Change the default rendered element for the one passed as a child, merging their props and behavior.</p>
+<p>Read our <a href='https://www.reka-ui.com/docs/guides/composition'>Composition</a> guide for more details.</p>
+`,type:"boolean",required:!1}]})])}const g=a(s,[["render",d]]);export{f as __pageData,g as default};
